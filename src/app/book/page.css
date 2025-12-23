@@ -1,0 +1,12 @@
+marker-popup,
+.marker-popup {
+  color: black;
+}
+
+.marker {
+  z-index: 1000;
+}
+
+body {
+  background-color: white;
+}
